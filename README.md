@@ -1,3 +1,3 @@
 # FAST-Corner-Detector-Python
-Isn't super fast. Type "python fast.py" to run.
+Just some doodling. It's super slow so don't use it.
 ![alt text](https://github.com/hjamal3/FAST-Corner-Detector-Python/blob/master/rubixoutput.jpg?raw=true)
